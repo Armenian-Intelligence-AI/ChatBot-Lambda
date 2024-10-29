@@ -1,0 +1,2 @@
+CLASSIFIER_LAMBDA_ARN = 'arn:aws:lambda:eu-north-1:641801338804:function:fbm-chatbot-classifier:production'
+CHATBOT_CONTROLLER_LAMBDA_ARN = 'arn:aws:lambda:eu-north-1:641801338804:function:fbm-ai-chatbot-controller'
